@@ -1,2 +1,2 @@
 This line is correct
-This line contains a bug
+This line is correct
